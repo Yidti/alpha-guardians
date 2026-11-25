@@ -1,0 +1,10 @@
+# 11/09 真的被擋：VECTOR 欄位沒包 vec_*
+vrp = ts_backfill(earnings_volatility_risk_premium, 60); sig = -1 * group_zscore(ts_decay_linear(vrp, 15), densify(subindustry)); ts_decay_linear(multiply(sig, power(rank(cap), 0.70)), 15)
+# 同一條改好：先用 vec_avg 把 VECTOR 變成一個數
+vrp = ts_backfill(vec_avg(earnings_volatility_risk_premium), 60); sig = -1 * group_zscore(ts_decay_linear(vrp, 15), densify(subindustry)); ts_decay_linear(multiply(sig, power(rank(cap), 0.70)), 15)
+# 11/05 真的被擋：自己猜的欄位名稱 opt40_ivcall40 不存在
+skew = -1 * group_zscore(ts_mean(ts_backfill(subtract(opt40_ivput20, opt40_ivcall40), 60), 40), densify(subindustry)); flow = group_zscore(ts_zscore(ts_backfill(customer_vol_imbalance, 60), 40), densify(subindustry)); sig = add(multiply(skew, 0.75), multiply(flow, 0.25)); ts_decay_linear(signed_power(multiply(sig, rank(cap)), 1.2), 40)
+# 示範：參數個數不對（ts_mean 要 2 個參數）
+rank(ts_mean(close))
+# 示範：正常的表達式
+rank(-ts_delta(close, 5))

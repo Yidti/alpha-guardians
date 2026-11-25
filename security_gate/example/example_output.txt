@@ -1,0 +1,7 @@
+共 5 個表達式：PASS 2、BLOCKED 3、無法判斷 0
+第 2 行 BLOCKED：vrp = ts_backfill(earnings_volatility_risk_premium, 60); sig = -1 * group_zscore(ts_decay_…
+  ✗ vector_without_vec_op earnings_volatility_risk_premium：VECTOR 欄位沒有先用 vec_* operator（例如 vec_avg）包起來，模擬會直接報錯
+第 6 行 BLOCKED：skew = -1 * group_zscore(ts_mean(ts_backfill(subtract(opt40_ivput20, opt40_ivcall40), 60),…
+  ✗ missing_field opt40_ivcall40：USA/TOP3000/D1 沒有這個欄位
+第 8 行 BLOCKED：rank(ts_mean(close))
+  ✗ wrong_arity ts_mean：ts_mean 收 2 個參數，表達式給了 1 個

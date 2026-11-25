@@ -1,0 +1,623 @@
+[
+ {
+  "alpha_id": "cand01",
+  "region": "GBR",
+  "cells": [
+   "GBR/D1/MODEL",
+   "GBR/D1/OTHER"
+  ],
+  "sharpe": 2.47,
+  "fitness": 1.7,
+  "turnover": 0.1942,
+  "prod_corr": 0.6327,
+  "self_corr": 0.5666,
+  "margin": 0.000951,
+  "yr_sharpe_last": 2.62,
+  "yr_sharpe_prev": 1.68,
+  "prod_check": "PASS",
+  "self_check": "PASS",
+  "has_pnl": true
+ },
+ {
+  "alpha_id": "cand02",
+  "region": "GBR",
+  "cells": [
+   "GBR/D1/MODEL",
+   "GBR/D1/OTHER"
+  ],
+  "sharpe": 2.34,
+  "fitness": 1.7,
+  "turnover": 0.1736,
+  "prod_corr": 0.6963,
+  "self_corr": 0.6131,
+  "margin": 0.001053,
+  "yr_sharpe_last": 0.15,
+  "yr_sharpe_prev": 3.05,
+  "prod_check": "PASS",
+  "self_check": "PASS",
+  "has_pnl": true
+ },
+ {
+  "alpha_id": "cand03",
+  "region": "EUR",
+  "cells": [
+   "EUR/D1/RISK"
+  ],
+  "sharpe": 1.87,
+  "fitness": 1.07,
+  "turnover": 0.1163,
+  "prod_corr": 0.6153,
+  "self_corr": 0.6073,
+  "margin": 0.000698,
+  "yr_sharpe_last": 2.48,
+  "yr_sharpe_prev": 1.42,
+  "prod_check": "PASS",
+  "self_check": "PASS",
+  "has_pnl": true
+ },
+ {
+  "alpha_id": "cand04",
+  "region": "USA",
+  "cells": [
+   "USA/D1/OTHER"
+  ],
+  "sharpe": 2.27,
+  "fitness": 1.58,
+  "turnover": 0.1405,
+  "prod_corr": 0.4852,
+  "self_corr": 0.0593,
+  "margin": 0.000971,
+  "yr_sharpe_last": 4.12,
+  "yr_sharpe_prev": 3.09,
+  "prod_check": "PASS",
+  "self_check": "PASS",
+  "has_pnl": true
+ },
+ {
+  "alpha_id": "cand05",
+  "region": "USA",
+  "cells": [
+   "USA/D1/OTHER"
+  ],
+  "sharpe": 2.38,
+  "fitness": 1.45,
+  "turnover": 0.1915,
+  "prod_corr": 0.5166,
+  "self_corr": 0.1104,
+  "margin": 0.00074,
+  "yr_sharpe_last": 1.57,
+  "yr_sharpe_prev": 3.15,
+  "prod_check": "PASS",
+  "self_check": "PASS",
+  "has_pnl": true
+ },
+ {
+  "alpha_id": "cand06",
+  "region": "USA",
+  "cells": [
+   "USA/D1/OTHER"
+  ],
+  "sharpe": 2.31,
+  "fitness": 1.58,
+  "turnover": 0.1427,
+  "prod_corr": 0.5493,
+  "self_corr": 0.1161,
+  "margin": 0.000939,
+  "yr_sharpe_last": 2.18,
+  "yr_sharpe_prev": 3.33,
+  "prod_check": "PASS",
+  "self_check": "PASS",
+  "has_pnl": true
+ },
+ {
+  "alpha_id": "cand07",
+  "region": "USA",
+  "cells": [
+   "USA/D1/OTHER"
+  ],
+  "sharpe": 2.36,
+  "fitness": 1.54,
+  "turnover": 0.1933,
+  "prod_corr": 0.6284,
+  "self_corr": 0.1181,
+  "margin": 0.000853,
+  "yr_sharpe_last": 3.69,
+  "yr_sharpe_prev": 3.2,
+  "prod_check": "PASS",
+  "self_check": "PASS",
+  "has_pnl": true
+ },
+ {
+  "alpha_id": "cand08",
+  "region": "USA",
+  "cells": [
+   "USA/D1/OTHER"
+  ],
+  "sharpe": 3.02,
+  "fitness": 2.09,
+  "turnover": 0.1947,
+  "prod_corr": 0.5645,
+  "self_corr": 0.1207,
+  "margin": 0.00096,
+  "yr_sharpe_last": 1.7,
+  "yr_sharpe_prev": 4.33,
+  "prod_check": "PASS",
+  "self_check": "PASS",
+  "has_pnl": true
+ },
+ {
+  "alpha_id": "cand09",
+  "region": "ASI",
+  "cells": [
+   "ASI/D1/FUNDAMENTAL",
+   "ASI/D1/MODEL"
+  ],
+  "sharpe": 2.24,
+  "fitness": 1.82,
+  "turnover": 0.1131,
+  "prod_corr": 0.6479,
+  "self_corr": 0.2632,
+  "margin": 0.001451,
+  "yr_sharpe_last": 1.07,
+  "yr_sharpe_prev": 2.05,
+  "prod_check": "PASS",
+  "self_check": "PASS",
+  "has_pnl": true
+ },
+ {
+  "alpha_id": "cand10",
+  "region": "EUR",
+  "cells": [
+   "EUR/D1/PV",
+   "EUR/D1/OTHER"
+  ],
+  "sharpe": 2.58,
+  "fitness": 1.27,
+  "turnover": 0.1705,
+  "prod_corr": 0.5531,
+  "self_corr": 0.5415,
+  "margin": 0.000486,
+  "yr_sharpe_last": 1.35,
+  "yr_sharpe_prev": 2.59,
+  "prod_check": "PASS",
+  "self_check": "PASS",
+  "has_pnl": true
+ },
+ {
+  "alpha_id": "cand11",
+  "region": "ASI",
+  "cells": [
+   "ASI/D1/FUNDAMENTAL",
+   "ASI/D1/MODEL"
+  ],
+  "sharpe": 2.15,
+  "fitness": 1.06,
+  "turnover": 0.1349,
+  "prod_corr": 0.3465,
+  "self_corr": 0.2536,
+  "margin": 0.00049,
+  "yr_sharpe_last": 1.66,
+  "yr_sharpe_prev": 3.15,
+  "prod_check": "PASS",
+  "self_check": "PASS",
+  "has_pnl": true
+ },
+ {
+  "alpha_id": "cand12",
+  "region": "USA",
+  "cells": [
+   "USA/D1/RISK",
+   "USA/D1/OTHER"
+  ],
+  "sharpe": 2.59,
+  "fitness": 1.84,
+  "turnover": 0.1191,
+  "prod_corr": 0.6075,
+  "self_corr": 0.5052,
+  "margin": 0.00106,
+  "yr_sharpe_last": 2.66,
+  "yr_sharpe_prev": 3.42,
+  "prod_check": "PASS",
+  "self_check": "PASS",
+  "has_pnl": true
+ },
+ {
+  "alpha_id": "cand13",
+  "region": "USA",
+  "cells": [
+   "USA/D1/RISK",
+   "USA/D1/OTHER"
+  ],
+  "sharpe": 2.57,
+  "fitness": 1.63,
+  "turnover": 0.1754,
+  "prod_corr": 0.582,
+  "self_corr": 0.4173,
+  "margin": 0.000805,
+  "yr_sharpe_last": 2.79,
+  "yr_sharpe_prev": 4.13,
+  "prod_check": "PASS",
+  "self_check": "PASS",
+  "has_pnl": true
+ },
+ {
+  "alpha_id": "cand14",
+  "region": "USA",
+  "cells": [
+   "USA/D1/RISK",
+   "USA/D1/OTHER"
+  ],
+  "sharpe": 2.52,
+  "fitness": 1.65,
+  "turnover": 0.1722,
+  "prod_corr": 0.4995,
+  "self_corr": 0.2943,
+  "margin": 0.000852,
+  "yr_sharpe_last": 3.07,
+  "yr_sharpe_prev": 3.3,
+  "prod_check": "PASS",
+  "self_check": "PASS",
+  "has_pnl": true
+ },
+ {
+  "alpha_id": "cand15",
+  "region": "USA",
+  "cells": [
+   "USA/D1/RISK",
+   "USA/D1/OTHER"
+  ],
+  "sharpe": 2.26,
+  "fitness": 1.54,
+  "turnover": 0.1089,
+  "prod_corr": 0.5164,
+  "self_corr": 0.3749,
+  "margin": 0.001072,
+  "yr_sharpe_last": 3.25,
+  "yr_sharpe_prev": 1.64,
+  "prod_check": "PASS",
+  "self_check": "PASS",
+  "has_pnl": true
+ },
+ {
+  "alpha_id": "cand16",
+  "region": "ASI",
+  "cells": [
+   "ASI/D1/FUNDAMENTAL",
+   "ASI/D1/MODEL"
+  ],
+  "sharpe": 2.16,
+  "fitness": 1.16,
+  "turnover": 0.1128,
+  "prod_corr": 0.4949,
+  "self_corr": 0.3778,
+  "margin": 0.000637,
+  "yr_sharpe_last": 0.74,
+  "yr_sharpe_prev": 4.12,
+  "prod_check": "PASS",
+  "self_check": "PASS",
+  "has_pnl": true
+ },
+ {
+  "alpha_id": "cand17",
+  "region": "USA",
+  "cells": [
+   "USA/D1/SOCIALMEDIA",
+   "USA/D1/OTHER"
+  ],
+  "sharpe": 2.26,
+  "fitness": 1.65,
+  "turnover": 0.0995,
+  "prod_corr": 0.5133,
+  "self_corr": 0.4819,
+  "margin": 0.00134,
+  "yr_sharpe_last": 3.23,
+  "yr_sharpe_prev": 1.47,
+  "prod_check": "PASS",
+  "self_check": "PASS",
+  "has_pnl": true
+ },
+ {
+  "alpha_id": "cand18",
+  "region": "ASI",
+  "cells": [
+   "ASI/D1/RISK",
+   "ASI/D1/MODEL"
+  ],
+  "sharpe": 4.17,
+  "fitness": 3.26,
+  "turnover": 0.1111,
+  "prod_corr": 0.4811,
+  "self_corr": 0.1859,
+  "margin": 0.001377,
+  "yr_sharpe_last": 3.78,
+  "yr_sharpe_prev": 3.13,
+  "prod_check": "PASS",
+  "self_check": "PASS",
+  "has_pnl": true
+ },
+ {
+  "alpha_id": "cand19",
+  "region": "ASI",
+  "cells": [
+   "ASI/D1/MODEL",
+   "ASI/D1/SENTIMENT"
+  ],
+  "sharpe": 2.53,
+  "fitness": 1.5,
+  "turnover": 0.1417,
+  "prod_corr": 0.4797,
+  "self_corr": 0.345,
+  "margin": 0.000704,
+  "yr_sharpe_last": 3.39,
+  "yr_sharpe_prev": 1.13,
+  "prod_check": "PASS",
+  "self_check": "PASS",
+  "has_pnl": true
+ },
+ {
+  "alpha_id": "cand20",
+  "region": "GLB",
+  "cells": [
+   "GLB/D1/OTHER",
+   "GLB/D1/ANALYST"
+  ],
+  "sharpe": 3.12,
+  "fitness": 2.01,
+  "turnover": 0.0914,
+  "prod_corr": 0.5183,
+  "self_corr": 0.391,
+  "margin": 0.00114,
+  "yr_sharpe_last": 2.29,
+  "yr_sharpe_prev": 3.71,
+  "prod_check": "PASS",
+  "self_check": "PASS",
+  "has_pnl": true
+ },
+ {
+  "alpha_id": "cand21",
+  "region": "GLB",
+  "cells": [
+   "GLB/D1/OTHER",
+   "GLB/D1/ANALYST"
+  ],
+  "sharpe": 4.03,
+  "fitness": 3.03,
+  "turnover": 0.1221,
+  "prod_corr": 0.6668,
+  "self_corr": 0.6054,
+  "margin": 0.00116,
+  "yr_sharpe_last": 5.31,
+  "yr_sharpe_prev": 4.5,
+  "prod_check": "PASS",
+  "self_check": "PASS",
+  "has_pnl": true
+ },
+ {
+  "alpha_id": "cand22",
+  "region": "EUR",
+  "cells": [
+   "EUR/D1/FUNDAMENTAL",
+   "EUR/D1/OTHER"
+  ],
+  "sharpe": 2.1,
+  "fitness": 1.14,
+  "turnover": 0.0884,
+  "prod_corr": 0.5355,
+  "self_corr": 0.1588,
+  "margin": 0.000838,
+  "yr_sharpe_last": 3.27,
+  "yr_sharpe_prev": 1.1,
+  "prod_check": "PASS",
+  "self_check": "PASS",
+  "has_pnl": true
+ },
+ {
+  "alpha_id": "cand23",
+  "region": "GLB",
+  "cells": [
+   "GLB/D1/OTHER",
+   "GLB/D1/ANALYST"
+  ],
+  "sharpe": 2.58,
+  "fitness": 2.0,
+  "turnover": 0.0491,
+  "prod_corr": 0.6986,
+  "self_corr": 0.6607,
+  "margin": 0.003049,
+  "yr_sharpe_last": 2.87,
+  "yr_sharpe_prev": 4.21,
+  "prod_check": "PASS",
+  "self_check": "PASS",
+  "has_pnl": true
+ },
+ {
+  "alpha_id": "cand24",
+  "region": "USA",
+  "cells": [
+   "USA/D1/NEWS",
+   "USA/D1/OTHER"
+  ],
+  "sharpe": 2.51,
+  "fitness": 1.83,
+  "turnover": 0.0896,
+  "prod_corr": 0.5854,
+  "self_corr": 0.3565,
+  "margin": 0.00148,
+  "yr_sharpe_last": 2.07,
+  "yr_sharpe_prev": 2.12,
+  "prod_check": "PASS",
+  "self_check": "PASS",
+  "has_pnl": true
+ },
+ {
+  "alpha_id": "cand25",
+  "region": "USA",
+  "cells": [
+   "USA/D1/NEWS",
+   "USA/D1/OTHER"
+  ],
+  "sharpe": 2.46,
+  "fitness": 2.16,
+  "turnover": 0.0924,
+  "prod_corr": 0.5427,
+  "self_corr": 0.188,
+  "margin": 0.002083,
+  "yr_sharpe_last": 1.97,
+  "yr_sharpe_prev": 2.58,
+  "prod_check": "PASS",
+  "self_check": "PASS",
+  "has_pnl": true
+ },
+ {
+  "alpha_id": "cand26",
+  "region": "USA",
+  "cells": [
+   "USA/D1/NEWS",
+   "USA/D1/OTHER"
+  ],
+  "sharpe": 2.18,
+  "fitness": 1.87,
+  "turnover": 0.0734,
+  "prod_corr": 0.5811,
+  "self_corr": 0.3828,
+  "margin": 0.002501,
+  "yr_sharpe_last": 1.46,
+  "yr_sharpe_prev": 2.3,
+  "prod_check": "PASS",
+  "self_check": "PASS",
+  "has_pnl": true
+ },
+ {
+  "alpha_id": "cand27",
+  "region": "USA",
+  "cells": [
+   "USA/D1/SOCIALMEDIA",
+   "USA/D1/OTHER"
+  ],
+  "sharpe": 2.07,
+  "fitness": 1.77,
+  "turnover": 0.0963,
+  "prod_corr": 0.5288,
+  "self_corr": 0.2924,
+  "margin": 0.00189,
+  "yr_sharpe_last": 0.62,
+  "yr_sharpe_prev": 2.73,
+  "prod_check": "PASS",
+  "self_check": "PASS",
+  "has_pnl": true
+ },
+ {
+  "alpha_id": "cand28",
+  "region": "USA",
+  "cells": [
+   "USA/D1/NEWS",
+   "USA/D1/OTHER"
+  ],
+  "sharpe": 1.69,
+  "fitness": 1.24,
+  "turnover": 0.0612,
+  "prod_corr": 0.6282,
+  "self_corr": 0.2663,
+  "margin": 0.002204,
+  "yr_sharpe_last": 1.02,
+  "yr_sharpe_prev": 1.99,
+  "prod_check": "PASS",
+  "self_check": "PASS",
+  "has_pnl": true
+ },
+ {
+  "alpha_id": "cand29",
+  "region": "USA",
+  "cells": [
+   "USA/D1/INSIDERS",
+   "USA/D1/OPTION"
+  ],
+  "sharpe": 2.12,
+  "fitness": 1.57,
+  "turnover": 0.1172,
+  "prod_corr": 0.6935,
+  "self_corr": 0.4614,
+  "margin": 0.001168,
+  "yr_sharpe_last": 1.89,
+  "yr_sharpe_prev": 2.79,
+  "prod_check": "PASS",
+  "self_check": "PASS",
+  "has_pnl": true
+ },
+ {
+  "alpha_id": "cand30",
+  "region": "USA",
+  "cells": [
+   "USA/D1/FUNDAMENTAL",
+   "USA/D1/OPTION"
+  ],
+  "sharpe": 1.67,
+  "fitness": 1.11,
+  "turnover": 0.0949,
+  "prod_corr": 0.6008,
+  "self_corr": 0.4452,
+  "margin": 0.001162,
+  "yr_sharpe_last": 3.15,
+  "yr_sharpe_prev": 1.98,
+  "prod_check": "PASS",
+  "self_check": "PASS",
+  "has_pnl": true
+ },
+ {
+  "alpha_id": "cand31",
+  "region": "USA",
+  "cells": [
+   "USA/D1/IMBALANCE",
+   "USA/D1/INSTITUTIONS"
+  ],
+  "sharpe": 3.0,
+  "fitness": 2.08,
+  "turnover": 0.148,
+  "prod_corr": 0.5657,
+  "self_corr": 0.3067,
+  "margin": 0.000962,
+  "yr_sharpe_last": 0.68,
+  "yr_sharpe_prev": 2.71,
+  "prod_check": "PASS",
+  "self_check": "PASS",
+  "has_pnl": true
+ },
+ {
+  "alpha_id": "cand32",
+  "region": "USA",
+  "cells": [
+   "USA/D1/NEWS",
+   "USA/D1/OTHER"
+  ],
+  "sharpe": 2.27,
+  "fitness": 1.99,
+  "turnover": 0.1013,
+  "prod_corr": 0.6046,
+  "self_corr": 0.2291,
+  "margin": 0.001901,
+  "yr_sharpe_last": 3.08,
+  "yr_sharpe_prev": 1.88,
+  "prod_check": "PASS",
+  "self_check": "PASS",
+  "has_pnl": true
+ },
+ {
+  "alpha_id": "cand33",
+  "region": "USA",
+  "cells": [
+   "USA/D1/SOCIALMEDIA",
+   "USA/D1/OTHER"
+  ],
+  "sharpe": 3.26,
+  "fitness": 2.48,
+  "turnover": 0.1684,
+  "prod_corr": 0.6585,
+  "self_corr": 0.6585,
+  "margin": 0.00116,
+  "yr_sharpe_last": 3.16,
+  "yr_sharpe_prev": 4.54,
+  "prod_check": "PASS",
+  "self_check": "PASS",
+  "has_pnl": true
+ }
+]

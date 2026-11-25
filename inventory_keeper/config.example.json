@@ -1,0 +1,17 @@
+{
+  "corr_max": 0.7,
+  "cell_full": 3,
+  "turnover_max": 0.20,
+  "require_check_pass": true,
+  "edge_prod": 0.7,
+  "min_pnl_days": 60,
+  "score_weights": {"sharpe": 1.0, "fitness": 1.0, "worst_recent_year": 0.5,
+                    "prod_corr": -2.0, "self_corr": -1.0, "turnover": -2.0, "margin": 0.25},
+  "margin": {"floor_bps": 10, "target_bps": 15, "cap": 2, "low_turnover_zero": 0.01, "low_turnover_full": 0.03},
+  "bonus_priority": {"enabled": true, "name": "2026 Q4 台灣挑戰賽 High Quality",
+                     "regions": ["USA", "GLB"], "min_sharpe": 2.0, "min_fitness": 1.0, "until": "2026-12-06"},
+  "submit_tiers": [[30, 4], [20, 3], [10, 2]],
+  "default_submit": 1,
+  "max_submit_per_day": 4,
+  "research": {"top_n": 5}
+}

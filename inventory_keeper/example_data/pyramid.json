@@ -1,0 +1,1052 @@
+[
+ {
+  "cell": "DEU/D0/IMBALANCE",
+  "submitted": 0,
+  "multiplier": 1.7
+ },
+ {
+  "cell": "DEU/D1/IMBALANCE",
+  "submitted": 0,
+  "multiplier": 1.2
+ },
+ {
+  "cell": "DEU/D0/INSIDERS",
+  "submitted": 0,
+  "multiplier": 1.9
+ },
+ {
+  "cell": "DEU/D1/INSIDERS",
+  "submitted": 0,
+  "multiplier": 1.6
+ },
+ {
+  "cell": "DEU/D0/INSTITUTIONS",
+  "submitted": 0,
+  "multiplier": 1.8
+ },
+ {
+  "cell": "DEU/D1/INSTITUTIONS",
+  "submitted": 0,
+  "multiplier": 1.6
+ },
+ {
+  "cell": "DEU/D1/MACRO",
+  "submitted": 0,
+  "multiplier": 1.5
+ },
+ {
+  "cell": "DEU/D0/MODEL",
+  "submitted": 0,
+  "multiplier": 1.9
+ },
+ {
+  "cell": "DEU/D1/MODEL",
+  "submitted": 0,
+  "multiplier": 1.8
+ },
+ {
+  "cell": "DEU/D0/NEWS",
+  "submitted": 0,
+  "multiplier": 1.9
+ },
+ {
+  "cell": "DEU/D1/NEWS",
+  "submitted": 0,
+  "multiplier": 1.8
+ },
+ {
+  "cell": "DEU/D1/OPTION",
+  "submitted": 0,
+  "multiplier": 1.7
+ },
+ {
+  "cell": "DEU/D0/OTHER",
+  "submitted": 0,
+  "multiplier": 1.9
+ },
+ {
+  "cell": "DEU/D1/OTHER",
+  "submitted": 0,
+  "multiplier": 1.8
+ },
+ {
+  "cell": "DEU/D0/PV",
+  "submitted": 0,
+  "multiplier": 1.8
+ },
+ {
+  "cell": "DEU/D1/PV",
+  "submitted": 0,
+  "multiplier": 1.6
+ },
+ {
+  "cell": "DEU/D0/RISK",
+  "submitted": 0,
+  "multiplier": 1.8
+ },
+ {
+  "cell": "DEU/D1/RISK",
+  "submitted": 0,
+  "multiplier": 1.5
+ },
+ {
+  "cell": "DEU/D0/SENTIMENT",
+  "submitted": 0,
+  "multiplier": 1.9
+ },
+ {
+  "cell": "DEU/D1/SENTIMENT",
+  "submitted": 0,
+  "multiplier": 1.8
+ },
+ {
+  "cell": "DEU/D0/SHORTINTEREST",
+  "submitted": 0,
+  "multiplier": 1.8
+ },
+ {
+  "cell": "EUR/D0/PV",
+  "submitted": 0,
+  "multiplier": 1.4
+ },
+ {
+  "cell": "EUR/D1/PV",
+  "submitted": 5,
+  "multiplier": 1.1
+ },
+ {
+  "cell": "EUR/D0/RISK",
+  "submitted": 0,
+  "multiplier": 1.2
+ },
+ {
+  "cell": "EUR/D1/RISK",
+  "submitted": 0,
+  "multiplier": 1.0
+ },
+ {
+  "cell": "EUR/D0/SENTIMENT",
+  "submitted": 0,
+  "multiplier": 1.6
+ },
+ {
+  "cell": "EUR/D1/SENTIMENT",
+  "submitted": 0,
+  "multiplier": 1.4
+ },
+ {
+  "cell": "EUR/D0/SOCIALMEDIA",
+  "submitted": 0,
+  "multiplier": 1.1
+ },
+ {
+  "cell": "EUR/D1/SOCIALMEDIA",
+  "submitted": 0,
+  "multiplier": 1.2
+ },
+ {
+  "cell": "GBR/D0/ANALYST",
+  "submitted": 0,
+  "multiplier": 1.9
+ },
+ {
+  "cell": "GBR/D1/ANALYST",
+  "submitted": 0,
+  "multiplier": 1.6
+ },
+ {
+  "cell": "GBR/D0/EARNINGS",
+  "submitted": 0,
+  "multiplier": 1.8
+ },
+ {
+  "cell": "GBR/D1/EARNINGS",
+  "submitted": 0,
+  "multiplier": 1.3
+ },
+ {
+  "cell": "GBR/D0/FUNDAMENTAL",
+  "submitted": 0,
+  "multiplier": 1.9
+ },
+ {
+  "cell": "GBR/D1/FUNDAMENTAL",
+  "submitted": 0,
+  "multiplier": 1.5
+ },
+ {
+  "cell": "GBR/D0/IMBALANCE",
+  "submitted": 0,
+  "multiplier": 1.4
+ },
+ {
+  "cell": "GBR/D1/IMBALANCE",
+  "submitted": 0,
+  "multiplier": 1.0
+ },
+ {
+  "cell": "GBR/D0/INSIDERS",
+  "submitted": 0,
+  "multiplier": 1.8
+ },
+ {
+  "cell": "GBR/D1/INSIDERS",
+  "submitted": 0,
+  "multiplier": 1.4
+ },
+ {
+  "cell": "GBR/D0/INSTITUTIONS",
+  "submitted": 0,
+  "multiplier": 1.7
+ },
+ {
+  "cell": "GBR/D1/INSTITUTIONS",
+  "submitted": 0,
+  "multiplier": 1.4
+ },
+ {
+  "cell": "GBR/D1/MACRO",
+  "submitted": 0,
+  "multiplier": 1.3
+ },
+ {
+  "cell": "JPN/D0/IMBALANCE",
+  "submitted": 0,
+  "multiplier": 1.2
+ },
+ {
+  "cell": "JPN/D1/IMBALANCE",
+  "submitted": 0,
+  "multiplier": 1.0
+ },
+ {
+  "cell": "JPN/D1/INSIDERS",
+  "submitted": 0,
+  "multiplier": 1.0
+ },
+ {
+  "cell": "JPN/D1/INSTITUTIONS",
+  "submitted": 0,
+  "multiplier": 1.3
+ },
+ {
+  "cell": "JPN/D1/MACRO",
+  "submitted": 0,
+  "multiplier": 1.1
+ },
+ {
+  "cell": "JPN/D0/MODEL",
+  "submitted": 0,
+  "multiplier": 1.9
+ },
+ {
+  "cell": "JPN/D1/MODEL",
+  "submitted": 0,
+  "multiplier": 1.7
+ },
+ {
+  "cell": "JPN/D0/NEWS",
+  "submitted": 0,
+  "multiplier": 1.9
+ },
+ {
+  "cell": "JPN/D1/NEWS",
+  "submitted": 0,
+  "multiplier": 1.6
+ },
+ {
+  "cell": "AMR/D0/PV",
+  "submitted": 0,
+  "multiplier": 1.5
+ },
+ {
+  "cell": "AMR/D1/PV",
+  "submitted": 0,
+  "multiplier": 1.4
+ },
+ {
+  "cell": "AMR/D0/SENTIMENT",
+  "submitted": 0,
+  "multiplier": 1.9
+ },
+ {
+  "cell": "AMR/D1/SENTIMENT",
+  "submitted": 0,
+  "multiplier": 1.7
+ },
+ {
+  "cell": "ASI/D1/ANALYST",
+  "submitted": 0,
+  "multiplier": 1.5
+ },
+ {
+  "cell": "ASI/D1/BROKER",
+  "submitted": 0,
+  "multiplier": 1.1
+ },
+ {
+  "cell": "ASI/D1/EARNINGS",
+  "submitted": 0,
+  "multiplier": 1.1
+ },
+ {
+  "cell": "ASI/D1/FUNDAMENTAL",
+  "submitted": 1,
+  "multiplier": 1.1
+ },
+ {
+  "cell": "ASI/D1/IMBALANCE",
+  "submitted": 0,
+  "multiplier": 1.0
+ },
+ {
+  "cell": "ASI/D1/INSTITUTIONS",
+  "submitted": 0,
+  "multiplier": 1.2
+ },
+ {
+  "cell": "ASI/D1/MACRO",
+  "submitted": 0,
+  "multiplier": 1.0
+ },
+ {
+  "cell": "ASI/D1/MODEL",
+  "submitted": 3,
+  "multiplier": 1.3
+ },
+ {
+  "cell": "ASI/D1/NEWS",
+  "submitted": 0,
+  "multiplier": 1.3
+ },
+ {
+  "cell": "ASI/D1/OTHER",
+  "submitted": 1,
+  "multiplier": 1.3
+ },
+ {
+  "cell": "ASI/D1/PV",
+  "submitted": 0,
+  "multiplier": 1.0
+ },
+ {
+  "cell": "ASI/D1/RISK",
+  "submitted": 3,
+  "multiplier": 1.0
+ },
+ {
+  "cell": "ASI/D1/SENTIMENT",
+  "submitted": 0,
+  "multiplier": 1.4
+ },
+ {
+  "cell": "ASI/D1/SHORTINTEREST",
+  "submitted": 0,
+  "multiplier": 1.3
+ },
+ {
+  "cell": "ASI/D1/SOCIALMEDIA",
+  "submitted": 0,
+  "multiplier": 1.2
+ },
+ {
+  "cell": "CHN/D0/ANALYST",
+  "submitted": 0,
+  "multiplier": 1.9
+ },
+ {
+  "cell": "CHN/D1/ANALYST",
+  "submitted": 0,
+  "multiplier": 1.8
+ },
+ {
+  "cell": "CHN/D0/FUNDAMENTAL",
+  "submitted": 0,
+  "multiplier": 1.9
+ },
+ {
+  "cell": "CHN/D1/FUNDAMENTAL",
+  "submitted": 0,
+  "multiplier": 1.8
+ },
+ {
+  "cell": "CHN/D1/INSTITUTIONS",
+  "submitted": 0,
+  "multiplier": 1.5
+ },
+ {
+  "cell": "CHN/D1/MACRO",
+  "submitted": 0,
+  "multiplier": 1.8
+ },
+ {
+  "cell": "CHN/D0/MODEL",
+  "submitted": 0,
+  "multiplier": 1.8
+ },
+ {
+  "cell": "CHN/D1/MODEL",
+  "submitted": 0,
+  "multiplier": 1.6
+ },
+ {
+  "cell": "CHN/D0/NEWS",
+  "submitted": 0,
+  "multiplier": 1.8
+ },
+ {
+  "cell": "CHN/D1/NEWS",
+  "submitted": 0,
+  "multiplier": 1.7
+ },
+ {
+  "cell": "CHN/D0/OTHER",
+  "submitted": 0,
+  "multiplier": 1.9
+ },
+ {
+  "cell": "CHN/D1/OTHER",
+  "submitted": 0,
+  "multiplier": 1.9
+ },
+ {
+  "cell": "CHN/D0/PV",
+  "submitted": 0,
+  "multiplier": 1.6
+ },
+ {
+  "cell": "CHN/D1/PV",
+  "submitted": 0,
+  "multiplier": 1.5
+ },
+ {
+  "cell": "CHN/D1/RISK",
+  "submitted": 0,
+  "multiplier": 1.6
+ },
+ {
+  "cell": "CHN/D0/SENTIMENT",
+  "submitted": 0,
+  "multiplier": 1.8
+ },
+ {
+  "cell": "CHN/D1/SENTIMENT",
+  "submitted": 0,
+  "multiplier": 1.7
+ },
+ {
+  "cell": "CHN/D0/SHORTINTEREST",
+  "submitted": 0,
+  "multiplier": 1.2
+ },
+ {
+  "cell": "CHN/D1/SHORTINTEREST",
+  "submitted": 0,
+  "multiplier": 1.3
+ },
+ {
+  "cell": "CHN/D1/SOCIALMEDIA",
+  "submitted": 0,
+  "multiplier": 1.1
+ },
+ {
+  "cell": "DEU/D0/ANALYST",
+  "submitted": 0,
+  "multiplier": 1.9
+ },
+ {
+  "cell": "DEU/D1/ANALYST",
+  "submitted": 0,
+  "multiplier": 1.8
+ },
+ {
+  "cell": "DEU/D0/EARNINGS",
+  "submitted": 0,
+  "multiplier": 1.9
+ },
+ {
+  "cell": "DEU/D1/EARNINGS",
+  "submitted": 0,
+  "multiplier": 1.5
+ },
+ {
+  "cell": "DEU/D0/FUNDAMENTAL",
+  "submitted": 0,
+  "multiplier": 1.9
+ },
+ {
+  "cell": "DEU/D1/FUNDAMENTAL",
+  "submitted": 0,
+  "multiplier": 1.8
+ },
+ {
+  "cell": "JPN/D0/OTHER",
+  "submitted": 0,
+  "multiplier": 1.7
+ },
+ {
+  "cell": "JPN/D1/OTHER",
+  "submitted": 0,
+  "multiplier": 1.7
+ },
+ {
+  "cell": "JPN/D0/PV",
+  "submitted": 0,
+  "multiplier": 1.8
+ },
+ {
+  "cell": "JPN/D1/PV",
+  "submitted": 0,
+  "multiplier": 1.5
+ },
+ {
+  "cell": "JPN/D0/RISK",
+  "submitted": 0,
+  "multiplier": 1.5
+ },
+ {
+  "cell": "JPN/D1/RISK",
+  "submitted": 0,
+  "multiplier": 1.3
+ },
+ {
+  "cell": "JPN/D0/SENTIMENT",
+  "submitted": 0,
+  "multiplier": 1.9
+ },
+ {
+  "cell": "JPN/D1/SENTIMENT",
+  "submitted": 0,
+  "multiplier": 1.6
+ },
+ {
+  "cell": "JPN/D0/SHORTINTEREST",
+  "submitted": 0,
+  "multiplier": 1.8
+ },
+ {
+  "cell": "DEU/D1/SHORTINTEREST",
+  "submitted": 0,
+  "multiplier": 1.3
+ },
+ {
+  "cell": "DEU/D0/SOCIALMEDIA",
+  "submitted": 0,
+  "multiplier": 1.8
+ },
+ {
+  "cell": "DEU/D1/SOCIALMEDIA",
+  "submitted": 0,
+  "multiplier": 1.5
+ },
+ {
+  "cell": "EUR/D0/ANALYST",
+  "submitted": 0,
+  "multiplier": 1.6
+ },
+ {
+  "cell": "EUR/D1/ANALYST",
+  "submitted": 0,
+  "multiplier": 1.3
+ },
+ {
+  "cell": "EUR/D0/EARNINGS",
+  "submitted": 0,
+  "multiplier": 1.4
+ },
+ {
+  "cell": "EUR/D1/EARNINGS",
+  "submitted": 0,
+  "multiplier": 1.2
+ },
+ {
+  "cell": "EUR/D0/FUNDAMENTAL",
+  "submitted": 0,
+  "multiplier": 1.3
+ },
+ {
+  "cell": "EUR/D1/FUNDAMENTAL",
+  "submitted": 1,
+  "multiplier": 1.1
+ },
+ {
+  "cell": "EUR/D0/IMBALANCE",
+  "submitted": 0,
+  "multiplier": 1.0
+ },
+ {
+  "cell": "EUR/D1/IMBALANCE",
+  "submitted": 0,
+  "multiplier": 1.0
+ },
+ {
+  "cell": "EUR/D0/INSIDERS",
+  "submitted": 0,
+  "multiplier": 1.4
+ },
+ {
+  "cell": "EUR/D1/INSIDERS",
+  "submitted": 0,
+  "multiplier": 1.1
+ },
+ {
+  "cell": "EUR/D0/INSTITUTIONS",
+  "submitted": 0,
+  "multiplier": 1.5
+ },
+ {
+  "cell": "EUR/D1/INSTITUTIONS",
+  "submitted": 0,
+  "multiplier": 1.1
+ },
+ {
+  "cell": "EUR/D0/MODEL",
+  "submitted": 0,
+  "multiplier": 1.6
+ },
+ {
+  "cell": "EUR/D1/MODEL",
+  "submitted": 4,
+  "multiplier": 1.3
+ },
+ {
+  "cell": "EUR/D0/NEWS",
+  "submitted": 0,
+  "multiplier": 1.5
+ },
+ {
+  "cell": "EUR/D1/NEWS",
+  "submitted": 0,
+  "multiplier": 1.4
+ },
+ {
+  "cell": "EUR/D0/OTHER",
+  "submitted": 0,
+  "multiplier": 1.7
+ },
+ {
+  "cell": "EUR/D1/OTHER",
+  "submitted": 3,
+  "multiplier": 1.5
+ },
+ {
+  "cell": "GBR/D0/MODEL",
+  "submitted": 0,
+  "multiplier": 1.6
+ },
+ {
+  "cell": "GBR/D1/MODEL",
+  "submitted": 1,
+  "multiplier": 1.5
+ },
+ {
+  "cell": "GBR/D0/NEWS",
+  "submitted": 0,
+  "multiplier": 1.9
+ },
+ {
+  "cell": "GBR/D1/NEWS",
+  "submitted": 0,
+  "multiplier": 1.6
+ },
+ {
+  "cell": "GBR/D1/OPTION",
+  "submitted": 0,
+  "multiplier": 1.5
+ },
+ {
+  "cell": "GBR/D0/OTHER",
+  "submitted": 0,
+  "multiplier": 1.9
+ },
+ {
+  "cell": "GBR/D1/OTHER",
+  "submitted": 0,
+  "multiplier": 1.6
+ },
+ {
+  "cell": "GBR/D0/PV",
+  "submitted": 0,
+  "multiplier": 1.4
+ },
+ {
+  "cell": "GBR/D1/PV",
+  "submitted": 1,
+  "multiplier": 1.4
+ },
+ {
+  "cell": "GBR/D0/RISK",
+  "submitted": 0,
+  "multiplier": 1.2
+ },
+ {
+  "cell": "GBR/D1/RISK",
+  "submitted": 0,
+  "multiplier": 1.2
+ },
+ {
+  "cell": "GBR/D0/SENTIMENT",
+  "submitted": 0,
+  "multiplier": 1.9
+ },
+ {
+  "cell": "GBR/D1/SENTIMENT",
+  "submitted": 0,
+  "multiplier": 1.7
+ },
+ {
+  "cell": "GBR/D0/SHORTINTEREST",
+  "submitted": 0,
+  "multiplier": 1.1
+ },
+ {
+  "cell": "GBR/D1/SHORTINTEREST",
+  "submitted": 0,
+  "multiplier": 1.2
+ },
+ {
+  "cell": "GBR/D0/SOCIALMEDIA",
+  "submitted": 0,
+  "multiplier": 1.8
+ },
+ {
+  "cell": "GBR/D1/SOCIALMEDIA",
+  "submitted": 0,
+  "multiplier": 1.3
+ },
+ {
+  "cell": "GLB/D1/ANALYST",
+  "submitted": 0,
+  "multiplier": 1.4
+ },
+ {
+  "cell": "GLB/D1/EARNINGS",
+  "submitted": 0,
+  "multiplier": 1.1
+ },
+ {
+  "cell": "GLB/D1/FUNDAMENTAL",
+  "submitted": 3,
+  "multiplier": 1.4
+ },
+ {
+  "cell": "JPN/D1/SHORTINTEREST",
+  "submitted": 0,
+  "multiplier": 1.4
+ },
+ {
+  "cell": "JPN/D0/SOCIALMEDIA",
+  "submitted": 0,
+  "multiplier": 1.7
+ },
+ {
+  "cell": "JPN/D1/SOCIALMEDIA",
+  "submitted": 0,
+  "multiplier": 1.2
+ },
+ {
+  "cell": "USA/D0/ANALYST",
+  "submitted": 0,
+  "multiplier": 1.7
+ },
+ {
+  "cell": "USA/D1/ANALYST",
+  "submitted": 3,
+  "multiplier": 1.2
+ },
+ {
+  "cell": "USA/D0/EARNINGS",
+  "submitted": 0,
+  "multiplier": 1.4
+ },
+ {
+  "cell": "USA/D1/EARNINGS",
+  "submitted": 3,
+  "multiplier": 1.3
+ },
+ {
+  "cell": "USA/D0/FUNDAMENTAL",
+  "submitted": 0,
+  "multiplier": 1.5
+ },
+ {
+  "cell": "USA/D1/FUNDAMENTAL",
+  "submitted": 3,
+  "multiplier": 1.1
+ },
+ {
+  "cell": "USA/D1/IMBALANCE",
+  "submitted": 0,
+  "multiplier": 1.0
+ },
+ {
+  "cell": "USA/D0/INSIDERS",
+  "submitted": 0,
+  "multiplier": 1.5
+ },
+ {
+  "cell": "GLB/D1/INSIDERS",
+  "submitted": 0,
+  "multiplier": 1.0
+ },
+ {
+  "cell": "GLB/D1/INSTITUTIONS",
+  "submitted": 1,
+  "multiplier": 1.0
+ },
+ {
+  "cell": "GLB/D1/MACRO",
+  "submitted": 0,
+  "multiplier": 1.1
+ },
+ {
+  "cell": "GLB/D1/MODEL",
+  "submitted": 0,
+  "multiplier": 1.3
+ },
+ {
+  "cell": "GLB/D1/NEWS",
+  "submitted": 0,
+  "multiplier": 1.3
+ },
+ {
+  "cell": "GLB/D1/OTHER",
+  "submitted": 4,
+  "multiplier": 1.2
+ },
+ {
+  "cell": "GLB/D1/PV",
+  "submitted": 0,
+  "multiplier": 1.0
+ },
+ {
+  "cell": "GLB/D1/RISK",
+  "submitted": 1,
+  "multiplier": 1.0
+ },
+ {
+  "cell": "GLB/D1/SENTIMENT",
+  "submitted": 0,
+  "multiplier": 1.3
+ },
+ {
+  "cell": "GLB/D1/SOCIALMEDIA",
+  "submitted": 0,
+  "multiplier": 1.1
+ },
+ {
+  "cell": "IND/D1/ANALYST",
+  "submitted": 6,
+  "multiplier": 1.4
+ },
+ {
+  "cell": "IND/D1/EARNINGS",
+  "submitted": 0,
+  "multiplier": 1.1
+ },
+ {
+  "cell": "IND/D1/FUNDAMENTAL",
+  "submitted": 0,
+  "multiplier": 1.3
+ },
+ {
+  "cell": "IND/D1/IMBALANCE",
+  "submitted": 0,
+  "multiplier": 1.0
+ },
+ {
+  "cell": "IND/D1/INSIDERS",
+  "submitted": 0,
+  "multiplier": 1.1
+ },
+ {
+  "cell": "IND/D1/INSTITUTIONS",
+  "submitted": 2,
+  "multiplier": 1.0
+ },
+ {
+  "cell": "IND/D1/MACRO",
+  "submitted": 0,
+  "multiplier": 1.0
+ },
+ {
+  "cell": "IND/D1/MODEL",
+  "submitted": 3,
+  "multiplier": 1.2
+ },
+ {
+  "cell": "IND/D1/NEWS",
+  "submitted": 0,
+  "multiplier": 1.3
+ },
+ {
+  "cell": "IND/D1/OPTION",
+  "submitted": 0,
+  "multiplier": 1.2
+ },
+ {
+  "cell": "IND/D1/OTHER",
+  "submitted": 0,
+  "multiplier": 1.3
+ },
+ {
+  "cell": "IND/D1/PV",
+  "submitted": 6,
+  "multiplier": 1.1
+ },
+ {
+  "cell": "IND/D1/RISK",
+  "submitted": 0,
+  "multiplier": 1.0
+ },
+ {
+  "cell": "IND/D1/SENTIMENT",
+  "submitted": 0,
+  "multiplier": 1.2
+ },
+ {
+  "cell": "IND/D1/SHORTINTEREST",
+  "submitted": 0,
+  "multiplier": 1.0
+ },
+ {
+  "cell": "JPN/D0/ANALYST",
+  "submitted": 0,
+  "multiplier": 1.9
+ },
+ {
+  "cell": "JPN/D1/ANALYST",
+  "submitted": 0,
+  "multiplier": 1.7
+ },
+ {
+  "cell": "JPN/D1/BROKER",
+  "submitted": 0,
+  "multiplier": 1.2
+ },
+ {
+  "cell": "JPN/D1/EARNINGS",
+  "submitted": 0,
+  "multiplier": 1.2
+ },
+ {
+  "cell": "JPN/D0/FUNDAMENTAL",
+  "submitted": 0,
+  "multiplier": 1.9
+ },
+ {
+  "cell": "JPN/D1/FUNDAMENTAL",
+  "submitted": 0,
+  "multiplier": 1.7
+ },
+ {
+  "cell": "USA/D1/INSIDERS",
+  "submitted": 2,
+  "multiplier": 1.1
+ },
+ {
+  "cell": "USA/D0/INSTITUTIONS",
+  "submitted": 0,
+  "multiplier": 1.4
+ },
+ {
+  "cell": "USA/D1/INSTITUTIONS",
+  "submitted": 3,
+  "multiplier": 1.1
+ },
+ {
+  "cell": "USA/D1/MACRO",
+  "submitted": 0,
+  "multiplier": 1.1
+ },
+ {
+  "cell": "USA/D0/MODEL",
+  "submitted": 0,
+  "multiplier": 1.6
+ },
+ {
+  "cell": "USA/D1/MODEL",
+  "submitted": 5,
+  "multiplier": 1.3
+ },
+ {
+  "cell": "USA/D0/NEWS",
+  "submitted": 0,
+  "multiplier": 1.7
+ },
+ {
+  "cell": "USA/D1/NEWS",
+  "submitted": 0,
+  "multiplier": 1.2
+ },
+ {
+  "cell": "USA/D0/OPTION",
+  "submitted": 0,
+  "multiplier": 1.7
+ },
+ {
+  "cell": "USA/D1/OPTION",
+  "submitted": 3,
+  "multiplier": 1.3
+ },
+ {
+  "cell": "USA/D0/OTHER",
+  "submitted": 0,
+  "multiplier": 1.7
+ },
+ {
+  "cell": "USA/D1/OTHER",
+  "submitted": 9,
+  "multiplier": 1.4
+ },
+ {
+  "cell": "USA/D0/PV",
+  "submitted": 0,
+  "multiplier": 1.6
+ },
+ {
+  "cell": "USA/D1/PV",
+  "submitted": 13,
+  "multiplier": 1.1
+ },
+ {
+  "cell": "USA/D0/RISK",
+  "submitted": 0,
+  "multiplier": 1.1
+ },
+ {
+  "cell": "USA/D1/RISK",
+  "submitted": 3,
+  "multiplier": 1.1
+ },
+ {
+  "cell": "USA/D0/SENTIMENT",
+  "submitted": 0,
+  "multiplier": 1.8
+ },
+ {
+  "cell": "USA/D1/SENTIMENT",
+  "submitted": 3,
+  "multiplier": 1.5
+ },
+ {
+  "cell": "USA/D0/SHORTINTEREST",
+  "submitted": 0,
+  "multiplier": 1.5
+ },
+ {
+  "cell": "USA/D1/SHORTINTEREST",
+  "submitted": 3,
+  "multiplier": 1.1
+ },
+ {
+  "cell": "USA/D0/SOCIALMEDIA",
+  "submitted": 0,
+  "multiplier": 1.5
+ },
+ {
+  "cell": "USA/D1/SOCIALMEDIA",
+  "submitted": 0,
+  "multiplier": 1.1
+ }
+]

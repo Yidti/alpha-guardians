@@ -1,0 +1,6 @@
+session.pkl
+*.pkl
+.env
+my_data/
+catalog/
+__pycache__/
